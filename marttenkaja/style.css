@@ -1,0 +1,39 @@
+h1{
+    background-color: darkgray; /*tausta värv*/
+    color: black; /*teksti värv*/
+}
+header, footer{
+    font-family: Georgia;
+    font-size: large;
+    width: 60%;
+    border: 5px dotted grey; /*dashed, dotted, double, outline*/
+    background-color: darkgray;
+    border-radius: 120px;
+    padding:1%; /*vahe teksti ja piiri vahel*/
+}
+nav ul{
+    list-style-type: none;
+    text-align: center; /*teksti joondamine keskel*/
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+nav li{
+    display: inline;
+    float: left;
+    padding: 2%;
+}
+main{
+    margin: 50px;
+    padding: 1%;
+}
+nav a:hover{/*link fookuses*/
+    background-color: darkgray;
+}
+nav li a{
+    font-family: Georgia;
+    font-size: xx-large;
+    text-decoration: none;
+    border-bottom: gray 1px solid;
+    border-radius: 5px;
+}
