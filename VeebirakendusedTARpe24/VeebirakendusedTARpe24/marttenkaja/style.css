@@ -91,3 +91,53 @@ section#kontakt3 h3{
     font-weight: bold;
     font-variant: small-caps;
 }
+section#pildigalerii{
+    width: 20%;
+    margin-top: 50px;
+}
+section#pildigalerii h3{
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 100px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+section#video{
+    width: 20%;
+    padding: 2%;
+    margin-top: 50px;
+}
+section#video h3{
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 100px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+section#muusika{
+    width: 20%;
+    padding: 2%;
+    margin-top: 50px;
+}
+section#muusika h3{
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 100px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+section#kaart{
+    width: 20%;
+    padding: 2%;
+    margin-top: 50px;
+}
+section#kaart h3{
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 100px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
