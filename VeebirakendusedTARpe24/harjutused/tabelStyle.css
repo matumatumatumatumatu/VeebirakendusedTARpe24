@@ -1,0 +1,223 @@
+
+/***table id=lihtne***/
+#lihtne{
+    width: 60%;
+    border:1px solid black;
+    height: 200px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#lihtne td{
+    border: 1px solid black;
+    text-align: center;
+}
+/*pseudostiilide kasutamine*/
+#lihtne tr:nth-child(1) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#lihtne tr:nth-child(1) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: darkgray;
+}
+#lihtne tr:nth-child(2) td:nth-child(1){
+    background-color: gray;
+}
+#lihtne tr:nth-child(2) td:nth-child(2){
+    background-color: darkgray;
+}
+#keeruline1{
+    width: 60%;
+    border:1px solid black;
+    height: 200px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#keeruline1 td{
+    border: 1px solid black;
+    text-align: center;
+}
+/*pseudostiilide kasutamine*/
+#keeruline1 tr:nth-child(1) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline1 tr:nth-child(1) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: darkgray;
+}
+#keeruline1 tr:nth-child(2) td:nth-child(1){
+    background-color: gray;
+}
+#keeruline2{
+    width: 60%;
+    border:1px solid black;
+    height: 200px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#keeruline2 td{
+    border: 1px solid black;
+    text-align: center;
+}
+/*pseudostiilide kasutamine*/
+#keeruline2 tr:nth-child(1) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline2 tr:nth-child(1) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: darkgray;
+}
+#keeruline2 tr:nth-child(2) td:nth-child(1){
+    background-color: gray;
+}
+#keeruline3{
+    width: 60%;
+    border:1px solid black;
+    height: 200px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#keeruline3 td{
+    border: 1px solid black;
+    text-align: center;
+}
+/*pseudostiilide kasutamine*/
+#keeruline3 tr:nth-child(1) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline3 tr:nth-child(1) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: darkgray;
+}
+#keeruline3 tr:nth-child(2) td:nth-child(1){
+    background-color: gray;
+}
+#keeruline3 tr:nth-child(2) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline3 tr:nth-child(2) td:nth-child(3){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline3 tr:nth-child(3) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline3 tr:nth-child(3) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline3 tr:nth-child(4) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline4{
+    width: 60%;
+    border:1px solid black;
+    height: 200px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#keeruline4 td{
+    border: 1px solid black;
+    text-align: center;
+}
+/*pseudostiilide kasutamine*/
+#keeruline4 tr:nth-child(1) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline4 tr:nth-child(1) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: darkgray;
+}
+#keeruline4 tr:nth-child(2) td:nth-child(1){
+    background-color: gray;
+}
+#keeruline4 tr:nth-child(2) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline4 tr:nth-child(2) td:nth-child(3){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline4 tr:nth-child(3) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline4 tr:nth-child(3) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#keeruline4 tr:nth-child(4) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#jubedus{
+    width: 60%;
+    border:1px solid black;
+    height: 200px;
+    width: 200px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#jubedus td{
+    border: 1px solid black;
+    text-align: center;
+}
+/*pseudostiilide kasutamine*/
+#jubedus tr:nth-child(1) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: gray;
+}
+#jubedus tr:nth-child(1) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: red;
+}
+#jubedus tr:nth-child(2) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: yellow;
+}
+#jubedus tr:nth-child(2) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: blue;
+}
+#jubedus tr:nth-child(2) td:nth-child(3){ /*1. rida 1. lahter*/
+    background-color: orange;
+}
+#jubedus tr:nth-child(3) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: purple;
+}
+#jubedus tr:nth-child(3) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: pink;
+}
+#jubedus tr:nth-child(4) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: aqua;
+}
+#jubedus tr:nth-child(4) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#jubedus tr:nth-child(5) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: burlywood;
+}
+#jubedus tr:nth-child(6) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: wheat;
+}
+#jubedus tr:nth-child(6) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: greenyellow;
+}
+#huvitav{
+    width: 60%;
+    border:1px solid black;
+    height: 200px;
+    width: 600px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#huvitav td{
+    border: 1px solid black;
+    text-align: center;
+}
+/*pseudostiilide kasutamine*/
+#huvitav tr:nth-child(1) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#huvitav tr:nth-child(1) td:nth-child(5){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#huvitav tr:nth-child(2) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#huvitav tr:nth-child(2) td:nth-child(4){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#huvitav tr:nth-child(3) td:nth-child(3){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#huvitav tr:nth-child(4) td:nth-child(2){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#huvitav tr:nth-child(4) td:nth-child(4){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#huvitav tr:nth-child(5) td:nth-child(5){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+#huvitav tr:nth-child(5) td:nth-child(1){ /*1. rida 1. lahter*/
+    background-color: brown;
+}
+

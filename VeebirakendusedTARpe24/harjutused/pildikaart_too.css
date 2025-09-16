@@ -1,0 +1,12 @@
+h1{
+
+}
+div#ala{
+    background-color: gray;
+    padding: 2%;
+    width: 40%;
+    height: 400px;
+    position: absolute;
+    left: 350px;
+    top: 50px;
+}
